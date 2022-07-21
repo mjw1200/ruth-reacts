@@ -1,0 +1,11 @@
+div.yomama {
+  display: flex;
+  height: 300px;
+  align-items: center;
+  justify-content: center;
+}
+
+p.yomama {
+  font-size: xx-large;
+  font-weight: bolder;
+}
